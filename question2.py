@@ -1,3 +1,11 @@
+'''
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+'''
 number = int(input(""))  # 從使用者輸入一個整數，並將其轉換為 int 型態，賦值給變數 number
 res = 0  # 初始化計數器變數 res，初始值為 0
 
